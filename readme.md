@@ -44,18 +44,21 @@ Advanced Calculator Pro is a desktop application that showcases professional sof
 
 ## 📸 Screenshots
 
-> *Add your screenshots here after taking them*
+### Main Interface
+![Main Interface](screenshots/main_interface.png)
+*Calculator interface with multi-language support*
 
-<table>
-  <tr>
-    <td><img src="C:\Users\mirud\OneDrive\Desktop\final project avt\main_interface.png" width="300" alt="Main Interface"/><br/><sub><b>Main Interface</b></sub></td>
-    <td><img src="C:\Users\mirud\OneDrive\Desktop\final project avt\scientific_interface.png" width="300" alt="Scientific"/><br/><sub><b>Scientific Calculator</b></sub></td>
-  </tr>
-  <tr>
-    <td><img src="C:\Users\mirud\OneDrive\Desktop\final project avt\converter.png" width="300" alt="Converter"/><br/><sub><b>Unit Converter</b></sub></td>
-    <td><img src="C:\Users\mirud\OneDrive\Desktop\final project avt\history.png" width="300" alt="History"/><br/><sub><b>History Tab</b></sub></td>
-  </tr>
-</table>
+### Scientific Calculator
+![Scientific Calculator](screenshots/scientific_interface.png)
+*Scientific functions including trigonometry, logarithms, and more*
+
+### Unit Converter
+![Unit Converter](screenshots/converter.png)
+*Convert between length, weight, temperature, and currency units*
+
+### Calculation History
+![History](screenshots/history.png)
+*Persistent history with export functionality*
 
 ## 🚀 Quick Start
 
