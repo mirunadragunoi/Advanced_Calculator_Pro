@@ -2,11 +2,6 @@
 
 Professional multi-language calculator application demonstrating comprehensive localization practices.
 
-![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/License-Educational-green.svg)
-![Languages](https://img.shields.io/badge/Languages-5-orange.svg)
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-952-brightgreen.svg)
-
 ## 🌟 Overview
 
 Advanced Calculator Pro is a desktop application that showcases professional software localization techniques. Built with Python and Tkinter, it features complete support for 5 languages and requires zero external dependencies.
