@@ -71,16 +71,14 @@ Python 3.7 or higher (Tkinter included)
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/advanced-calculator-pro.git
+git clone https://github.com/mirunadragunoi/Advanced_Calculator_Pro.git
 
 # Navigate to project directory
-cd advanced-calculator-pro
+cd Advanced_Calculator_Pro
 
 # Run the application
 python calculator_app.py
 ```
-
-**That's it!** No `pip install` needed. No external dependencies.
 
 ## 💻 Usage
 
@@ -137,7 +135,7 @@ Interface updates instantly! ⚡
 ```
 advanced-calculator-pro/
 │
-├── calculator_app.py          # Main application (952 lines)
+├── calculator_app.py          # Main application 
 │   ├── Class: AdvancedCalculator
 │   ├── Methods: 30+ functions
 │   └── Features: 25+ capabilities
@@ -179,13 +177,6 @@ advanced-calculator-pro/
 - **Character Encoding**: UTF-8
 - **Architecture**: MVC pattern
 - **Localization**: i18n best practices
-
-### Why No External Dependencies?
-This project intentionally avoids external libraries (matplotlib, numpy, etc.) to:
-- ✅ Ensure instant execution on any Python installation
-- ✅ Simplify deployment and distribution
-- ✅ Demonstrate pure Python capabilities
-- ✅ Minimize compatibility issues
 
 ## 🌍 Localization Approach
 
@@ -257,59 +248,23 @@ values=["English", "Română", "Español", "Français", "Deutsch", "Italiano"]
 python calculator_app.py
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how:
-
-### Ways to Contribute
-- 🌍 Add new language translations
-- 🐛 Report bugs
-- ✨ Suggest features
-- 📝 Improve documentation
-- 🧪 Add tests
-
-### Process
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Translation Guidelines
-When contributing translations:
-- Use UTF-8 encoding
-- Maintain JSON structure (don't change keys)
-- Provide context in PR description
-- Test with the application
-- Follow existing formality level
-
 ## 📄 License
 
 This project is created for educational purposes as part of CIVIS BIP 2024-2025 coursework.
 
 **Subject**: Basis and Methods of Localisation, Translation of Computer Products and Video Games
 
-You are free to:
-- Use this code for learning
-- Fork and modify for your own projects
-- Reference in your academic work
-
-Please credit the original project if you use or reference this code.
-
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Drăgunoi Miruna**
+- GitHub: [@mirunadragunoi](https://github.com/mirunadragunoi)
 
 ## 🎓 Academic Context
 
 This project was developed as the final assignment for:
 - **Course**: Basis and Methods of Localisation, Translation of Computer Products and Video Games
 - **Program**: CIVIS BIP 2024-2025
-- **Professors**: Aranzazu Gil, Irene Atalaya, José Ramón Trujillo
-- **Institution**: [Your University]
+- **Professors**: Aranzazu Gil
 - **Year**: 2024-2025
 
 ### Learning Objectives Met
@@ -359,68 +314,11 @@ This project was developed as the final assignment for:
 - [ ] Equation solver
 - [ ] Plugins system
 
-## 🐛 Known Issues
-
-Currently no known issues. If you find a bug:
-1. Check if it's already reported in [Issues](https://github.com/yourusername/advanced-calculator-pro/issues)
-2. If not, create a new issue with:
-   - Description of the problem
-   - Steps to reproduce
-   - Expected vs actual behavior
-   - Screenshots (if applicable)
-   - Your environment (OS, Python version)
-
-## ❓ FAQ
-
-**Q: Why use Tkinter instead of modern frameworks?**  
-A: Tkinter is cross-platform, comes with Python, and requires no installation. Perfect for demonstrating localization without dependency hassles.
-
-**Q: Can I use this code in my own project?**  
-A: Yes! It's educational code. Just credit the original project.
-
-**Q: How do I add more scientific functions?**  
-A: Edit `calculator_app.py`, add buttons in `setup_scientific_calculator()`, and implement the function logic.
-
-**Q: Can this be converted to a mobile app?**  
-A: The logic can be reused, but the UI would need to be rebuilt with a mobile framework (Kivy, React Native, etc.).
-
-**Q: How accurate are the currency conversions?**  
-A: Current rates are fixed for demonstration. In production, you'd fetch real-time rates from an API.
-
-## 📞 Support
-
-Need help?
-
-1. **Documentation**: Check [docs/](docs/) folder
-2. **Issues**: Open an issue on GitHub
-3. **Email**: your.email@example.com
-4. **LinkedIn**: Message me on [LinkedIn](https://linkedin.com/in/yourprofile)
-
-## ⭐ Show Your Support
-
-If you find this project helpful or interesting:
-- ⭐ Star this repository
-- 🍴 Fork it for your own use
-- 📣 Share it with others
-- 💬 Provide feedback
-
-## 📜 Changelog
-
-### Version 1.0.0 (November 2024)
-- Initial release
-- 5 language support
-- Scientific calculator
-- Unit converter
-- History and statistics
-- Theme support
-- 952 lines of code
-- 200+ translations
-
 ---
 
 <div align="center">
 
-**Advanced Calculator Pro** © 2024
+**Advanced Calculator Pro** © 2025
 
 Made with ❤️ and Python
 
